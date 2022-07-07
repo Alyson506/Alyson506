@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<Style>
+    h1 {
+        font-style:"monospace"
+        font-size: 30px
+        font-color: "Black !imporant"
+    }
+
+</Style>
+<head>
+
+</head>
+<body>
+    <h1> Alyson's Bakery </h1>
+<h2>Welcome to <strong>Alyson's Bakery!</strong> </h2>
+<img src="https://photos.app.goo.gl/dGfBhgmUEwkucu7B8" alt="a sponge cake with Whipped cream frosting and berries">
+<div>
+<p>At Alyson's bakery we strive for unique perfection in everything we make.
+ From adorable animal macarons, to elegant custom cakes we can bake the perfect thing for every event</p>
+ </div>
+<form action=""https://docs.google.com/document/d/16_CMMXCxXADYwE-EUVBJQDkzzDVRtWKwzs2qVNAD_pM/edit?usp=sharing">
+    <input name="email" class="contac-form" type="email" placeholder="type your email here">
+    <input name="name" class="contact-form"type="text" placeholder="Your Name">
+    <input name="contact" class="contact-form" type="text" placeholder="What are you contacting us about?"> 
+    </form>
+    </body>
+</html>
